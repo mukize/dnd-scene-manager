@@ -1,6 +1,6 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
-  import Scene from "$lib/Scene.svelte";
+  import Scene from "$lib/scene/Scene.svelte";
   import { Scene as SceneModel } from "$lib/pocketbase";
   import type { SceneData } from "$lib/types";
   import { writable, type Writable } from "svelte/store";

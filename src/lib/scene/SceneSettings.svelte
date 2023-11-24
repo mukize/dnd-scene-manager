@@ -1,7 +1,7 @@
 <script lang="ts">
   import Icon from "@iconify/svelte";
   import { writable, type Writable } from "svelte/store";
-  import type { SceneData } from "./types";
+  import type { SceneData } from "../types";
 
   export let sceneData: Writable<SceneData>;
   export let onSave: (savingState: Writable<boolean>) => void;

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Scene from "$lib/Scene.svelte";
+  import Scene from "$lib/scene/Scene.svelte";
   import { pb } from "$lib/pocketbase";
   import type { SceneData } from "$lib/types";
   import { Scene as SceneModel } from "$lib/pocketbase";
