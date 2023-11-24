@@ -6,18 +6,18 @@ Still WIP.
 
 ## What's Currently Available
 
-[x] Scene CRUDS
-[x] Adding backgrounds to scenes
-[x] Naming scenes
+- [x] Scene CRUDS
+- [x] Adding backgrounds to scenes
+- [x] Naming scenes
 
 ## What's Planned
 
-[] Scene Whiteboard (drawing)
-[] DM / Player Scene View
-  [] Live scene updates
-[] NPC and Mob scene tokens/icons
-[] Player scene tokens/icons
-[] Some sort of encounter scene
+- [ ] Scene Whiteboard (drawing)
+- [ ] DM / Player Scene View
+  - [ ] Live scene updates
+- [ ] NPC and Mob scene tokens/icons
+- [ ] Player scene tokens/icons
+- [ ] Some sort of encounter scene
 
 ## Stack
 
